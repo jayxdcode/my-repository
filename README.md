@@ -3,7 +3,7 @@
 ## Archived
 May 4th, 2026
 
-**This repo has been granted reduced sentence instead of death sentence (deletion) it's predecessors have received.**
+**This repo has been granted reduced sentence instead of death sentence (deletion) other repos have received.**
 
 Previous repos have been deleted for either of the 2 reasons:
 - No contents at all/README only
